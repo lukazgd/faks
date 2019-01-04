@@ -1,0 +1,19 @@
+#div{
+			float:left;
+			width: 50%;
+			height:160px;
+			background-color:#E9967A;
+			overflow: hidden;
+}
+.desno_logout_link{
+			float:right;
+			position: relative;
+}
+
+.welcome{
+	background-color:#CD5C5C;
+	text-align:center;
+	height:90px;
+}
+			
+
