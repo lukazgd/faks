@@ -1,0 +1,33 @@
+#center_logo{
+    margin: auto;
+    width: 100%;
+	height:200px;
+	text-align:center;
+	background-color:#F93010;
+}
+#center_elementi{
+    margin: auto;
+    width: 100%;
+	height:20px;
+	background-color:#F7654E;
+	text-align:center;
+}
+
+.figcaption{
+	width:20%
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+	height:20px;
+	width:3%;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+	height:20px;
+	width:3%;
+}
